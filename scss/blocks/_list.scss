@@ -1,0 +1,33 @@
+.list {
+    height: 306px;
+    padding-top: 50px !important;
+    padding-bottom: 70px !important;
+    padding-inline: 40px !important;
+    display: flex;
+    column-gap: 160px !important;
+    background-color: #fff !important;
+
+    p {
+        color: var(--color-accent);
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 1;
+        margin-bottom: 18px !important;
+    }
+
+    &__list {
+        display: flex;
+        column-gap: 48px;
+    }
+
+    &__left,
+    &__right {
+        display: flex;
+        flex-direction: column;
+        row-gap: 15px;
+    }
+}
+
+.no-active {
+    display: none;
+}
