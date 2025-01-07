@@ -334,7 +334,7 @@ body {
 .sink {
   position: relative;
   background-color: #FAFAFA !important;
-  background-image: url(./../../image/catalog/1.png) !important;
+  background-image: url(./../image/catalog/1.png) !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
@@ -412,7 +412,7 @@ body {
 
 .catalog__table {
   background-color: #FAFAFA !important;
-  background-image: url(./../../image/catalog/2.png) !important;
+  background-image: url(./../image/catalog/2.png) !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
@@ -437,7 +437,7 @@ body {
 
 .catalog__tumb {
   background-color: #FAFAFA !important;
-  background-image: url(./../../image/catalog/3.png) !important;
+  background-image: url(./../image/catalog/3.png) !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
@@ -462,7 +462,7 @@ body {
 
 .catalog__bar {
   background-color: #FAFAFA !important;
-  background-image: url(./../../image/catalog/4.png) !important;
+  background-image: url(./../image/catalog/4.png) !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
@@ -487,7 +487,7 @@ body {
 
 .catalog__fas {
   background-color: #FAFAFA !important;
-  background-image: url(./../../image/catalog/5.png) !important;
+  background-image: url(./../image/catalog/5.png) !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
